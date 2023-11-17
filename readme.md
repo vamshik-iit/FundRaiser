@@ -27,21 +27,37 @@ View Requests Page
 
 
 Capabilities
+
 Donor:
+
 •	Donate funds
+
 •	Edit Profile
+
 •	View fund requests
+
 User:
+
 •	Donate funds
+
 •	Edit Profile
+
 •	View fund requests
+
 •	Add new fund request
+
 Admin:
+
 •	Donate funds
+
 •	Edit Profile
+
 •	View fund requests
+
 •	Add new fund request
+
 •	Manage users
+
 •	Manage funds
 
 
