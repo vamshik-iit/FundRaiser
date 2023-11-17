@@ -22,9 +22,8 @@ Profile page
 
 ![image](https://github.com/vamshikusa/FundRaiser/assets/40212124/89520019-0e64-4624-b0bd-48baf3680c1d)
 
-Delete request page
-
-![image](https://github.com/vamshikusa/FundRaiser/assets/40212124/c5bc0e37-e976-4a2b-998b-70b4db32f166)
+View Requests Page
+![image](https://github.com/vamshikusa/FundRaiser/assets/40212124/384edfbe-7cb8-40d2-843a-6605fc6267d9)
 
 
 
