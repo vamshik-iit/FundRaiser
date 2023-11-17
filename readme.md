@@ -26,5 +26,22 @@ View Requests Page
 ![image](https://github.com/vamshikusa/FundRaiser/assets/40212124/384edfbe-7cb8-40d2-843a-6605fc6267d9)
 
 
+Capabilities
+Donor:
+•	Donate funds
+•	Edit Profile
+•	View fund requests
+User:
+•	Donate funds
+•	Edit Profile
+•	View fund requests
+•	Add new fund request
+Admin:
+•	Donate funds
+•	Edit Profile
+•	View fund requests
+•	Add new fund request
+•	Manage users
+•	Manage funds
 
 
